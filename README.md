@@ -15,3 +15,6 @@ A curated list of data discovery resources including engineering blog, OSS tools
 
 
 ## Presentations
+
+## Videos
+- [Data catalog by Google](https://www.youtube.com/watch?v=Qq76r-z_50c)
