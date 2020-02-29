@@ -9,6 +9,7 @@ A curated list of data discovery resources including engineering blog, OSS tools
 - [Democratizing Data Discovery at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770) @ Airbnb engineering blog
 - [Discovery and Consumption of Analytics Data at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2016/discovery-and-consumption-of-analytics-data-at-twitter.html) @ Twitter engineering blog
 - [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/) @ Uber engineering blog
+- [How We Improved Data Discovery for Data Scientists at Spotify](https://labs.spotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/) @ Sportify engineering blog
 
 
 ## OSS Repos
