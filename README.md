@@ -1,4 +1,4 @@
-# awesome-data-discovery
+# Awesome Data Discovery
 A curated list of data discovery resources including engineering blog, OSS tools
 
 ## Engineering blogs
